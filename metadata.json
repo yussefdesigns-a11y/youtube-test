@@ -1,5 +1,7 @@
 {
-  "name": "YouTube Thumbnail Studio",
-  "description": "A professional tool to preview and design YouTube thumbnails with AI-powered title suggestions and profile customization.",
-  "requestFramePermissions": []
+  "name": "YouTube Thumbnail Studio Pro",
+  "description": "Enterprise-grade thumbnail analyzer and previewer with Firebase persistence and Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
 }

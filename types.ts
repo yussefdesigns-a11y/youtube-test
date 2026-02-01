@@ -13,6 +13,7 @@ export interface ScorecardItem {
   category: string;
   description: string;
   strengthScore: number; // 1-100
+  iconType: 'composition' | 'color' | 'text' | 'impact';
 }
 
 export type AnalysisLength = 'short' | 'medium' | 'long';
